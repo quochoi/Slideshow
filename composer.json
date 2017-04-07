@@ -1,0 +1,14 @@
+{
+    "name": "foostart/slideshow",
+    "description": "Manage slideshow",
+    "authors": [
+        {
+            "name": "fooStart",
+            "email": "foostart@gmail.com"
+        }
+    ],
+    "require": {
+        "jacopo/laravel-authentication-acl": "1.3.*",
+        "unisharp/laravel-filemanager": "^1.7"
+    }
+}
